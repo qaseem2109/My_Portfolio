@@ -11,7 +11,7 @@ const projects = [
       'End-to-end ML pipeline predicting Uber trip fares from historical data. Includes feature engineering, regression models, and a fully interactive Streamlit web app for live predictions.',
     tech: ['Python', 'Streamlit', 'Scikit-learn', 'Pandas'],
     category: 'Machine Learning',
-    github: 'https://github.com',
+    github: 'https://github.com/qaseem2109/Uber_Fare_Prediction_With_StreamLit',
     demo: null,
   },
   {
@@ -20,7 +20,7 @@ const projects = [
       'Custom-trained YOLOv8 model that detects and reads license plates from images, video files, and real-world noisy scenes using OCR for alphanumeric character extraction.',
     tech: ['Python', 'YOLOv8', 'OpenCV', 'OCR'],
     category: 'Deep Learning',
-    github: 'https://github.com',
+    github: 'https://github.com/qaseem2109/License_Number_Plate_Detector',
     demo: null,
   },
   {
@@ -29,7 +29,7 @@ const projects = [
       'Exploratory data analysis on Netflix dataset — content trends, genre distribution, country-wise insights, and release year patterns. Visualized with heatmaps, count plots, and bar charts.',
     tech: ['Python', 'Pandas', 'Seaborn', 'Matplotlib'],
     category: 'Data Analysis',
-    github: 'https://github.com',
+    github: 'https://github.com/qaseem2109/Netflix_Data_Analysis',
     demo: null,
   },
   {
@@ -38,7 +38,7 @@ const projects = [
       'Linear regression model trained on a synthetic CGPA-to-Salary dataset. Evaluates model performance with MSE and R² score, and visualizes the regression line over a scatter plot.',
     tech: ['Python', 'Scikit-learn', 'Matplotlib'],
     category: 'Machine Learning',
-    github: 'https://github.com',
+    github: 'https://github.com/qaseem2109/Linear_Regression_Model',
     demo: null,
   },
   {
@@ -47,7 +47,7 @@ const projects = [
       'Flutter-based mobile app designed for University of Karachi students — centralizing academic resources, announcements, and campus information in one clean interface.',
     tech: ['Flutter', 'Dart', 'Firebase'],
     category: 'Mobile App',
-    github: 'https://github.com',
+    github: 'https://github.com/qaseem2109/UBIT_Student_Hub',
     demo: null,
   },
   {
@@ -56,7 +56,7 @@ const projects = [
       'Cross-platform Flutter app that fetches live weather data via a public API, displaying current conditions, forecasts, and location-based updates with a clean UI.',
     tech: ['Flutter', 'Dart', 'REST API'],
     category: 'Mobile App',
-    github: 'https://github.com',
+    github: 'https://github.com/qaseem2109/Weather-App',
     demo: null,
   },
 ];

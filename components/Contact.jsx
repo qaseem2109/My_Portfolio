@@ -159,9 +159,9 @@ export default function Contact() {
                     </>
                   )}
                 </button>
-                <p className="text-[10px] text-[#4A4845] text-center">
+                {/* <p className="text-[10px] text-[#4A4845] text-center">
                   * Connect this form to Formspree or EmailJS to enable actual email delivery.
-                </p>
+                </p> */}
               </form>
             )}
           </div>
