@@ -33,12 +33,12 @@ const projects = [
     demo: null,
   },
   {
-    title: 'Salary Prediction with CGPA',
+    title: 'RAG Chatbot ',
     description:
-      'Linear regression model trained on a synthetic CGPA-to-Salary dataset. Evaluates model performance with MSE and R² score, and visualizes the regression line over a scatter plot.',
-    tech: ['Python', 'Scikit-learn', 'Matplotlib'],
+      'A Retrieval-Augmented Generation (RAG) chatbot built with LangChain, FAISS, HuggingFace, and Streamlit. Ask questions from your own blog content and get AI-generated answers backed by relevant sources.',
+    tech: ['Vector Store', 'LLM', 'Embeddings','Streamlit'],
     category: 'Machine Learning',
-    github: 'https://github.com/qaseem2109/Linear_Regression_Model',
+    github: 'https://github.com/qaseem2109/RAG_Chatbot',
     demo: null,
   },
   {
